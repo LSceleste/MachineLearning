@@ -1,3 +1,14 @@
+#ANALYSIS
+
+1. All false positive scores are pretty accurate by looking at the near perfect F1-score.
+
+2. According to the model, it correctly identified 3262 false positives.  It has a 98% chance of identifying a false positive, a 72% chance of identifying a confirmed planet, and a 85% chance of identifying a candidate planet.
+
+3. This model is great for filtering out false positives; however, it is not the most accurate in identifying confirmed planets!
+
+
+
+
 # Exoplanet Exploration
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
